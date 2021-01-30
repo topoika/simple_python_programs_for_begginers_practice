@@ -1,0 +1,10 @@
+Name: Faith Esintii
+Student No: 20-1015
+MAT: 76 : B+
+ENG: 98 : A
+ENV: 87 : A-
+ACS: 76 : B+
+MIS: 87 : A-
+HPE: 87 : A-
+BIL: 76 : B+
+PHL: 56 : C
